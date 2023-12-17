@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+    h1 {
+        color: black;
+        text-align: center;
+      }
+      body {
+        color: #f8f8f8;
+      }
+      .book-library {
+        background-color: #ffffff;
+      }
+      .author {
+        color: #777777;
+      }
+      p {
+        color: black;
+      }
+      .Price-block {
+        text-align: center;
+        background-color: #2ecc71;
+      }
