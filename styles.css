@@ -12,7 +12,6 @@
       }
       .book-library {
         background-color: #ffffff;
-		    flex-wrap: wrap;
         justify-content: space-around;
         padding: 20px;
       }
@@ -24,7 +23,7 @@
       }
       .Price-block {
         text-align: center;
-        background-color: #2ecc71;
+        background-color: rgb(46, 204, 113);
 		   border-radius: 5px;
 		  color:white;
       }
