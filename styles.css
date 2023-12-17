@@ -3,11 +3,17 @@
         color: black;
         text-align: center;
       }
+.book{
+        background-color: #e1dcdc;
+      }
       body {
         color: #f8f8f8;
       }
       .book-library {
         background-color: #ffffff;
+		    flex-wrap: wrap;
+        justify-content: space-around;
+        padding: 20px;
       }
       .author {
         color: #777777;
@@ -18,4 +24,13 @@
       .Price-block {
         text-align: center;
         background-color: #2ecc71;
+		   border-radius: 5px;
+      }
+  img {
+        display: flex;
+        text-align: center;
+        align-items: center;
+        max-width: 100%;
+        height: auto;
+        padding: 10px 230px;
       }
